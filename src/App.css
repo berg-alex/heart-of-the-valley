@@ -1,0 +1,48 @@
+html {
+  background: royalblue;
+}
+
+#main {
+  background-color: royalblue;
+}
+
+.my-map {
+  float: right;
+  position: relative;
+  right: 10%;
+  top: 10vh;
+}
+
+.navitems {
+  float: right;
+  list-style: none;
+  margin-right: 10px;
+}
+
+.mynav {
+  background-color: #b642f5;
+}
+
+.navbrand {
+  color: white;
+  font-weight: bold;
+}
+
+.navitems {
+  background-color: tomato;
+  box-shadow: 3px 3px 3px 3px tomato;
+}
+
+.navbutton {
+  background-color: skyblue;
+}
+
+.my-lottie {
+  position: relative;
+  left: 10%;
+  width: 100%;
+}
+
+
+
+
