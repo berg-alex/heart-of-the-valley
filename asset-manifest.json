@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/heart-of-the-valley/static/css/main.c1e10459.chunk.css",
+    "main.js": "/heart-of-the-valley/static/js/main.7c1d96fe.chunk.js",
+    "main.js.map": "/heart-of-the-valley/static/js/main.7c1d96fe.chunk.js.map",
+    "runtime-main.js": "/heart-of-the-valley/static/js/runtime-main.345585cb.js",
+    "runtime-main.js.map": "/heart-of-the-valley/static/js/runtime-main.345585cb.js.map",
+    "static/css/2.818011ed.chunk.css": "/heart-of-the-valley/static/css/2.818011ed.chunk.css",
+    "static/js/2.275f2283.chunk.js": "/heart-of-the-valley/static/js/2.275f2283.chunk.js",
+    "static/js/2.275f2283.chunk.js.map": "/heart-of-the-valley/static/js/2.275f2283.chunk.js.map",
+    "static/js/3.3ea78e05.chunk.js": "/heart-of-the-valley/static/js/3.3ea78e05.chunk.js",
+    "static/js/3.3ea78e05.chunk.js.map": "/heart-of-the-valley/static/js/3.3ea78e05.chunk.js.map",
+    "index.html": "/heart-of-the-valley/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/heart-of-the-valley/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c1e10459.chunk.css.map": "/heart-of-the-valley/static/css/main.c1e10459.chunk.css.map",
+    "static/js/2.275f2283.chunk.js.LICENSE.txt": "/heart-of-the-valley/static/js/2.275f2283.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.345585cb.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.275f2283.chunk.js",
+    "static/css/main.c1e10459.chunk.css",
+    "static/js/main.7c1d96fe.chunk.js"
+  ]
+}
