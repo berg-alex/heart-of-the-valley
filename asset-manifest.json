@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/heart-of-the-valley/static/css/main.80abebf8.chunk.css",
-    "main.js": "/heart-of-the-valley/static/js/main.0bd27d5d.chunk.js",
-    "main.js.map": "/heart-of-the-valley/static/js/main.0bd27d5d.chunk.js.map",
+    "main.js": "/heart-of-the-valley/static/js/main.d868cdd3.chunk.js",
+    "main.js.map": "/heart-of-the-valley/static/js/main.d868cdd3.chunk.js.map",
     "runtime-main.js": "/heart-of-the-valley/static/js/runtime-main.c4d9f988.js",
     "runtime-main.js.map": "/heart-of-the-valley/static/js/runtime-main.c4d9f988.js.map",
     "static/css/2.818011ed.chunk.css": "/heart-of-the-valley/static/css/2.818011ed.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.2745f051.chunk.js",
     "static/css/main.80abebf8.chunk.css",
-    "static/js/main.0bd27d5d.chunk.js"
+    "static/js/main.d868cdd3.chunk.js"
   ]
 }
