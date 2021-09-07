@@ -1,26 +1,43 @@
-html {
-  background: royalblue;
-}
-
-#main {
-  background-color: royalblue;
-}
 
 .my-map {
   float: right;
   position: relative;
-  right: 10%;
-  top: 10vh;
+  z-index: 10;
+  opacity: 80%;
+}
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 60%;
+  z-index: -1;
+}
+
+nav {
+  background-color: #b642f5;
+  opacity: 80%;
+  z-index: 20;
 }
 
 .navitems {
   float: right;
   list-style: none;
-  margin-right: 10px;
+  position: relative;
+  background-color: tomato;
+  box-shadow: 3px 3px 3px 3px tomato;
+  margin-right: 20px;
+  right: 25%;
+  z-index: 20;
 }
 
 .mynav {
-  background-color: #b642f5;
+  background-color: black;
+  opacity: 50%;
+  z-index: 20;
 }
 
 .navbrand {
@@ -28,21 +45,12 @@ html {
   font-weight: bold;
 }
 
-.navitems {
-  background-color: tomato;
-  box-shadow: 3px 3px 3px 3px tomato;
-}
-
 .navbutton {
   background-color: skyblue;
+  z-index: 20;
 }
 
 .my-lottie {
   position: relative;
-  left: 10%;
   width: 100%;
 }
-
-
-
-
