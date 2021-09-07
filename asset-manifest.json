@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/heart-of-the-valley/static/css/main.d0cbd568.chunk.css",
+    "main.css": "/heart-of-the-valley/static/css/main.c6f933b1.chunk.css",
     "main.js": "/heart-of-the-valley/static/js/main.0bd27d5d.chunk.js",
     "main.js.map": "/heart-of-the-valley/static/js/main.0bd27d5d.chunk.js.map",
     "runtime-main.js": "/heart-of-the-valley/static/js/runtime-main.c4d9f988.js",
@@ -12,7 +12,7 @@
     "static/js/3.cf7ad54e.chunk.js.map": "/heart-of-the-valley/static/js/3.cf7ad54e.chunk.js.map",
     "index.html": "/heart-of-the-valley/index.html",
     "static/css/2.818011ed.chunk.css.map": "/heart-of-the-valley/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.d0cbd568.chunk.css.map": "/heart-of-the-valley/static/css/main.d0cbd568.chunk.css.map",
+    "static/css/main.c6f933b1.chunk.css.map": "/heart-of-the-valley/static/css/main.c6f933b1.chunk.css.map",
     "static/js/2.2745f051.chunk.js.LICENSE.txt": "/heart-of-the-valley/static/js/2.2745f051.chunk.js.LICENSE.txt",
     "static/media/pexels-rostislav-uzunov-5680034.8de3b1a8.mp4": "/heart-of-the-valley/static/media/pexels-rostislav-uzunov-5680034.8de3b1a8.mp4"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.c4d9f988.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.2745f051.chunk.js",
-    "static/css/main.d0cbd568.chunk.css",
+    "static/css/main.c6f933b1.chunk.css",
     "static/js/main.0bd27d5d.chunk.js"
   ]
 }
